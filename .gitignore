@@ -1,0 +1,13 @@
+output_dir*
+*.pyc
+.vscode
+gaussian-splatting/output*
+gaussian-splatting/build
+gaussian-splatting/diff_rasterization/diff_rast.egg-info
+gaussian-splatting/diff_rasterization/dist
+gaussian-splatting/tensorboard_3d
+gaussian-splatting/screenshots
+gaussian-splatting/log
+final_test
+gaussian-splatting/submodules
+gaussian-splatting/SIBR_viewers
