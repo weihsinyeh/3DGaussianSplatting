@@ -1,2 +1,2 @@
-wget -O bestmodel/point_cloud/iteration_30000/point_cloud.zip 'https://www.dropbox.com/scl/fi/tvmevfu3e6sd8lcitej1w/point_cloud.zip?rlkey=ld9g17lee0va0hrs66rv01lry&st=krhl2n10&dl=1'
-unzip bestmodel/point_cloud/iteration_30000/point_cloud.zip
+wget -O bestmodel/point_cloud/iteration_60000/point_cloud.zip 'https://www.dropbox.com/scl/fi/kg32shvr8mq785g6lqw8v/point_cloud.zip?rlkey=24ygj2dd1dkoio2arxbb2endx&st=2pyr38zm&dl=1'
+unzip bestmodel/point_cloud/iteration_60000/point_cloud.zip
