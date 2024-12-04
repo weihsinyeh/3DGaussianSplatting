@@ -1,0 +1,27 @@
+Running with iteration: 50000
+Iteration: 50000 | PSNR: 36.738816833496095 | SSIM: 0.9785517242559081 | Combined Score: 37.7173685577520031
+Running with iteration: 51000
+Iteration: 51000 | PSNR: 37.125583028793336 | SSIM: 0.9788057860706004 | Combined Score: 38.1043888148639364
+Running with iteration: 52000
+Iteration: 52000 | PSNR: 37.21364974975586 | SSIM: 0.9788418566552726 | Combined Score: 38.1924916064111326
+Running with iteration: 53000
+Iteration: 53000 | PSNR: 37.16879315376282 | SSIM: 0.9788426981725386 | Combined Score: 38.1476358519353586
+Running with iteration: 54000
+Iteration: 54000 | PSNR: 37.11372036933899 | SSIM: 0.9786783476272473 | Combined Score: 38.0923987169662373
+Running with iteration: 55000
+Iteration: 55000 | PSNR: 36.835834217071536 | SSIM: 0.9786370324411098 | Combined Score: 37.8144712495126458
+Running with iteration: 56000
+Iteration: 56000 | PSNR:  | SSIM:  | Combined Score: 
+Running with iteration: 57000
+Iteration: 57000 | PSNR:  | SSIM:  | Combined Score: 
+Running with iteration: 58000
+Iteration: 58000 | PSNR:  | SSIM:  | Combined Score: 
+Running with iteration: 59000
+Iteration: 59000 | PSNR:  | SSIM:  | Combined Score: 
+Running with iteration: 60000
+Iteration: 60000 | PSNR:  | SSIM:  | Combined Score: 
+All iterations completed up to 60000.
+Highest PSNR: 37.21364974975586 at iteration 52000
+Highest SSIM: 0.9788426981725386 at iteration 53000
+Highest Combined Score: 38.1924916064111326 at iteration 52000
+All iterations completed up to 60000.

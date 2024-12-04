@@ -56,6 +56,9 @@ if __name__ == "__main__":
     parser = ArgumentParser(description="Testing script parameters")
     # model_path = "./gaussian-splatting/output/f27ffa1f-1" # 0.25
     # model_path = "./gaussian-splatting/output/92057955-b" # random
+    # model_path = "./gaussian-splatting/output/d81ea2d1-e"
+    # model_path = "/tmp2/r13922043/gaussian-splatting/output/26c8f247-4" #  60000
+    # model_path = "/tmp2/r13922043/gaussian-splatting/output/d79f13d7-4" # 100000
     model_path = "./bestmodel"
     
     model       = ModelParams(parser, sentinel=True, model_path=model_path)
