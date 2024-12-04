@@ -8,6 +8,8 @@
 # The filename should be {id}.png (e.g. xxxxxxxxx.png). The image size should be the same as training set.
 
 # bash hw4.sh /project/g/r13922043/hw4_dataset/dataset/public_test ./final_test
+# bash hw4.sh /project/g/r13922043/hw4_dataset/dataset/private_test ./final_private_test
+# python gaussian-splatting/metrics.py --gt_dir /project/g/r13922043/hw4_dataset/dataset/public_test/images/ --renders_dir ./final_test/
 # python gaussian-splatting/evaluation.py --source_path /project/g/r13922043/hw4_dataset/dataset/public_test --output_dir ./output_dir
 # python grade.py ./final_test /project/g/r13922043/hw4_dataset/dataset/public_test/images/
 python3 gaussian-splatting/evaluation.py --source_path $1 --output_dir $2

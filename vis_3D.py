@@ -3,7 +3,7 @@ import numpy as np
 
 pcd = o3d.io.read_point_cloud("/tmp2/r13922043/dlcv-fall-2024-hw4-weihsinyeh/gaussian-splatting/output/f27ffa1f-1/point_cloud/iteration_30000/point_cloud.ply") # 0.025
 pcd = o3d.io.read_point_cloud("/tmp2/r13922043/dlcv-fall-2024-hw4-weihsinyeh/gaussian-splatting/output/92057955-b/point_cloud/iteration_30000/point_cloud.ply") # random
-pcd = o3d.io.read_point_cloud("/tmp2/r13922043/dlcv-fall-2024-hw4-weihsinyeh/bestmodel/point_cloud/iteration_30000/point_cloud.ply") # best model
+pcd = o3d.io.read_point_cloud("./bestmodel/point_cloud/iteration_60000/point_cloud.ply") # best model
 
 num_points = len(pcd.points)
 print(f"There are {num_points} points")
