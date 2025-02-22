@@ -1,10 +1,10 @@
 # Deep Learning for Computer Vision HW4
-contributed by < [`weihsinyeh`](https://github.com/DLCV-Fall-2024/dlcv-fall-2024-hw4-weihsinyeh) >
+contributed by < [`weihsinyeh`](https://github.com/weihsinyeh/3DGaussianSplatting) >
 資訊所 113 
 姓名：葉惟欣
 學號：R13922043
 [作業說明](https://docs.google.com/presentation/d/1ITmnEreMglkmNuWzPnd-2kiRJffvJC2aFfxMhvt3qcM/edit#slide=id.g18f26c43992_0_3)
-
+> https://hackmd.io/@weihsinyeh/3DGaussianSplatting
 ### Data
 please download dataset from the link below 
 > https://drive.google.com/file/d/1B2rY6cfCD-UbxBGM24sgxk5NWDgiXg8_/view?usp=drive_link
